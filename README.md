@@ -43,4 +43,7 @@ The Pi can be accessed(implying that the initial setup was a success)
 * Further automation and hardening
 * Setting up connection to my home server (Hyperion repo soon to be created)
 
-last updated on 28/1/26
+***BRIEF UPDATE***
+I've been busy with other things over the last month and a bit, so progress has ground to a halt. However, after writing up a brief exercise I did today, my full attention will be turned back to finishing this project, which requires the creation and completion of my home server. That is all.
+
+LAST UPDATED: 28/2/26
