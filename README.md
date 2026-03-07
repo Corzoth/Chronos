@@ -37,6 +37,7 @@ I then decided to make my own python handler for the pi to connect back to when 
 * Pi is reachable, and also connects to home server handler
 * Pi Connects to the internet
 * Only hardware on the pi is the pi itself, a wifi adapter, and an A2 micro SD card.
+* Currently, a discord webhook is invoked when a connection occurs, or is closed. This is purely for testing, as it saves me having to constantly switch output on my screen to see if a connection has occurred
 
 
 **Next steps**
@@ -46,4 +47,12 @@ I then decided to make my own python handler for the pi to connect back to when 
 * Further automation and hardening
 * Begin process of updating the code to connect Chronos to Hyperion so that it is as safe and protected as possible, whilst maintaining current functionality and ease of use.
 * Continue bug testing/fixing
+
+# THIS IS NOT OPERATIONALLY VIABLE YET
+* there is too wide a scope for attackers to hijack the connection
+* There is no meaningful verification
+
+This will all be fixed soon.
+
+**LAST UPDATED:7/3/26**
 
