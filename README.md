@@ -30,10 +30,13 @@ The pi runs headlessly
 It is only accessible via SSH
 The Pi can be accessed(implying that the initial setup was a success)
 
+Once PI is setup and connected, via this method, disconnected it from the reliance on a DHCP server via an ethernet cable. I then attached a wifi adapter and through some minor troubleshooting, the Pi had a network connection.
+
+I then decided to make my own python handler for the pi to connect back to when it comes online, alongside an accompaniying bash script on the pi to actually deliver the connection and allow for commands to be ran and for their output to be read back to the handler. The current state however is that the connection lacks security, which will be fixed soon
 **Current state of the project**
-* Pi is consistently accessible via SSH and a DHCP server
-* Pi does not connect to the internet
-* Only hardware on the pi is the pi itself, an ethernet cable, and an A2 micro SD.
+* Pi is reachable, and also connects to home server handler
+* Pi Connects to the internet
+* Only hardware on the pi is the pi itself, a wifi adapter, and an A2 micro SD card.
 
 
 **Next steps**
@@ -41,9 +44,6 @@ The Pi can be accessed(implying that the initial setup was a success)
 * Tool installation
 * Persistant storage configuration
 * Further automation and hardening
-* Setting up connection to my home server (Hyperion repo soon to be created)
+* Begin process of updating the code to connect Chronos to Hyperion so that it is as safe and protected as possible, whilst maintaining current functionality and ease of use.
+* Continue bug testing/fixing
 
-***BRIEF UPDATE***
-I've been busy with other things over the last month and a bit, so progress has ground to a halt. However, after writing up a brief exercise I did today, my full attention will be turned back to finishing this project, which requires the creation and completion of my home server. That is all.
-
-LAST UPDATED: 28/2/26
