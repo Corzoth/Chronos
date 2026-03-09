@@ -43,10 +43,11 @@ I then decided to make my own python handler for the pi to connect back to when 
 **Next steps**
 * Mount the external SSD
 * Tool installation
-* Persistant storage configuration
+* Persistant storage configuration as well as setting up amnesic aspects of storage
 * Further automation and hardening
 * Begin process of updating the code to connect Chronos to Hyperion so that it is as safe and protected as possible, whilst maintaining current functionality and ease of use.
 * Continue bug testing/fixing
+* Possibly code a panic button to erase the config file
 
 # THIS IS NOT OPERATIONALLY VIABLE YET
 * there is too wide a scope for attackers to hijack the connection
@@ -54,5 +55,5 @@ I then decided to make my own python handler for the pi to connect back to when 
 
 This will all be fixed soon.
 
-**LAST UPDATED:7/3/26**
+**LAST UPDATED:9/3/26**
 
