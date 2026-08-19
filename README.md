@@ -55,5 +55,13 @@ I then decided to make my own python handler for the pi to connect back to when 
 
 This will all be fixed soon.
 
-**LAST UPDATED:9/3/26**
+**IMPORTANT UPDATE**
+I have chosen to use what I have learned thus far in this project for an in school project, meaning i cant go back to developing this project until around a year from now, after it has been examined, as i do not want to lose my marks for plagarism. Work on this project will henceforth continue, but dont expect any pushes until early august of 2027, as a means to protect my acedemic validity. In the meantime, feel free to check out my notes for CPTS, as well as any other projects ill inevitably decide to start in the future. 
+
+**I WILL CONTINUE PUSHING UPDATES SOLELY TO README.MD TO RECORD PROGRESS ON RESEARCH DONE AT HOME, OUT OF SCHOOL, THAT MAY BE RELEVANT TO THIS PROJECT**
+
+
+
+
+**LAST UPDATED:19/8/26**
 
